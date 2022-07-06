@@ -1,3 +1,5 @@
+<B>RESISTANCE VALUE CHART PER 1C PT1000:http://www.hayashidenko.co.jp/en/info14.html</B>
+<P></P>
 <B>Firmware Setting:</B>
 <P></P>
 
